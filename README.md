@@ -1,4 +1,4 @@
-# Celebrity Face Recognition Using SVM and Wavelet Transform
+# Face Recognition Using SVM and Wavelet Transform
 
 This project uses image processing and machine learning techniques to classify celebrity faces. The primary aim is to detect faces from images, apply wavelet transformation, and train a Support Vector Machine (SVM) classifier for recognition.
 
